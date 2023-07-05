@@ -1,24 +1,24 @@
 # Bot information
 SESSION = 'Media_search'
 USER_SESSION = 'User_Bot'
-API_ID = 12345
-API_HASH = '0123456789abcdef0123456789abcdef'
-BOT_TOKEN = '123456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11'
-USERBOT_STRING_SESSION = ''
+API_ID = 16564172
+API_HASH = 'f0184f4c1bad2efdc2f59b8591c7a839'
+BOT_TOKEN = '6268719215:AAFXrTuEhXw6j8vP-40yQC35ixD_NnUGqQI'
+USERBOT_STRING_SESSION = '6386858308:AAH28xyGVhN2IaKhDsvEDVtnFAsQ9krm4uk'
 
 # Bot settings
 CACHE_TIME = 300
 USE_CAPTION_FILTER = False
 
 # Admins, Channels & Users
-ADMINS = [12345789, 'admin123', 98765432]
-CHANNELS = [-10012345678, -100987654321, 'channelusername']
-AUTH_USERS = []
+ADMINS = [1946827941]
+CHANNELS = [ 'j7net']
+AUTH_USERS = [1946827941]
 AUTH_CHANNEL = None
 
 # MongoDB information
-DATABASE_URI = "mongodb://[username:password@]host1[:port1][,...hostN[:portN]][/[defaultauthdb]?retryWrites=true&w=majority"
-DATABASE_NAME = 'Telegram'
-COLLECTION_NAME = 'channel_files'  # If you are using the same database, then use different collection name for each bot
+DATABASE_URI = "mongodb+srv://jagadeesh:jagadeesh@jagadeesh.dxxkwqf.mongodb.net/?retryWrites=true&w=majority"
+DATABASE_NAME = 'jagadeesh'
+COLLECTION_NAME = 'jagadeesh'  # If you are using the same database, then use different collection name for each bot
 
 
